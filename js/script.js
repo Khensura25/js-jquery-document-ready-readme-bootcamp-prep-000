@@ -1,1 +1,1 @@
-$(documment).ready(function()
+$(documment).ready(function(){});
