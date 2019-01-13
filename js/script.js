@@ -1,1 +1,2 @@
-$(documment).ready($("#text").append("this is so freaking cool."));
+$(documment).ready(function(){
+  $("#text").append("this is so freaking cool.")});
